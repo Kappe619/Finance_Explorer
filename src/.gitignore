@@ -1,0 +1,13 @@
+# Ignoriere alle Dateien mit der Erweiterung .log
+*.log
+
+# Ignoriere das Verzeichnis "build" und seinen Inhalt
+build/
+
+# Ignoriere eine einzelne Datei namens "config.txt"
+config.txt
+
+# Ignoriere das Verzeichnis "tmp" und alle darin enthaltenen Dateien und Unterverzeichnisse
+tmp/
+
+.DS_Store
