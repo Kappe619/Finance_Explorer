@@ -1,0 +1,22 @@
+Transactions_2023-02
+Bezeichnung Auftragskonto;IBAN Auftragskonto;BIC Auftragskonto;Bankname Auftragskonto;Buchungstag;Valutadatum;Name Zahlungsbeteiligter;IBAN Zahlungsbeteiligter;BIC (SWIFT-Code) Zahlungsbeteiligter;Buchungstext;Verwendungszweck;Betrag;Waehrung;Saldo nach Buchung;Bemerkung;Kategorie;Steuerrelevant;Glaeubiger ID;Mandatsreferenz
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;30.03.2023;30.03.2023;Bäckerei W;DE61266600603367686000;GENO;Kartenzahlung girocard;Bäckerei W 29.03.2023 um 08:51:43 Uhr;-2,40;EUR;1812,93;;Sonstiges;;DE47ZZZ;813596
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;30.03.2023;30.03.2023;Bäckerei W;DE61266600603367686000;GENO;Kartenzahlung girocard;Bäckerei W 27.03.2023 um 08:41:31 Uhr;-4,50;EUR;1808,43;;Sonstiges;;DE47ZZZ;OFF
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;29.03.2023;29.03.2023;Arbeitgeber;DE09280200506202447600;OLBO;Lohn/Gehalt/Rente;Gehalt 03.2023 AG;999,82;EUR;2808,25;;Sonstiges;;;
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;27.03.2023;27.03.2023;Telekom;DE68700202700667302269;HYVE;Basislastschrift;Mobilfunk Kundenkonto;-10,50;EUR;2797,75;;Sonstiges;;DE93ZZZ;DE61
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;23.03.2023;23.03.2023;Bäckerei W;DE61266600603367686000;GENO;Kartenzahlung girocard;Bäckerei W       22.03.2023 um 08:43:00 Uhr;-5;EUR;2792,75;;Sonstiges;;DE47ZZZ;OFF
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;22.03.2023;22.03.2023;PayPal;LU89751000135104200E;PPLX;Basislastschrift;Apple Services;-6,95;EUR;2785,8;;Sonstiges;;LU96ZZZ;4J322
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;21.03.2023;21.03.2023;Bäckerei W;DE61266600603367686000;GENO;Kartenzahlung girocard;Bäckerei W20.03.2023 um 08:49:59 Uhr;-4,50;EUR;2781,3;;Sonstiges;;DE47ZZZ;OFF
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;20.03.2023;20.03.2023;PayPal;DE88500700100175526303;DEUT;Basislastschrift;Video;-10,77;EUR;2770,53;;Sonstiges;;LU96ZZZ;4J4TJ4
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;15.03.2023;15.03.2023;Versicherer;DE53250400660450944400;COBA;Basislastschrift;Vertrag;-5,00;EUR;2765,53;;Sonstiges;;DE46ZZZ;X6611658692
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;14.03.2023;14.03.2023;AUDIBLE GMBH;DE04300308800700054004;TUB;Basislastschrift;Buch;-9,99;EUR;2755,54;;Sonstiges;;DE31ZZZ;fFO?0pa6
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;13.03.2023;09.03.2023;;;;Umbuchung;Erstattung Karten;12,00;EUR;2767,54;;Sonstiges;;;
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;10.03.2023;10.03.2023;PayPal;DE88500700100175526303;DEUT;Basislastschrift;PAYPAL-ZAHLUNG UBER LASTSCHRIFT;-20,98;EUR;2746,56;;Sonstiges;;LU96ZZZ;PC4TJ4
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;09.03.2023;09.03.2023;Kartenpreis;DE58266600609730800500;GENO;Entgelt/Auslagen;Karten;-12,00;EUR;2734,56;;Sonstiges;;;
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;09.03.2023;09.03.2023;Bäckerei P;DE47280699940250632700;GENO;Kartenzahlung girocard;Bäckerei P 08.03.2023 um 09:04:18 Uhr;-2,50;EUR;2732,06;;Sonstiges;;DE63ZZZ;OFFLINE
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;08.03.2023;08.03.2023;PayPal;DE88500700100175526303;DEUT;Basislastschrift;Ihr Einkauf bei PayPal (Europe);-70,99;EUR;2661,07;;Sonstiges;;LU96ZZZ;4JC4TJ4
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;03.03.2023;03.03.2023;PayPal;LU89751000135104200E;PPL;Basislastschrift;Spende Ireland Limited;-3,57;EUR;2657,5;;Sonstiges;;LU96ZZZ;44TJ4
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;02.03.2023;02.03.2023;APOTHEKE;DE86300500000001052141;WELA;Kartenzahlung girocard;Apotheke;-15,84;EUR;2641,66;;Sonstiges;;DE68ZZZ;OFF
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;02.03.2023;02.03.2023;Bäckerei F;DE10266600601551100600;GENO;Kartenzahlung girocard;Bäcker F;-2,80;EUR;2638,86;;Sonstiges;;DE57ZZZ;OFF
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;02.03.2023;02.03.2023;PayPal (Europe) S.a r.l. et Cie, S.C.A.;DE88500700100175526303;DEUT;Basislastschrift;Flughafen;-75,00;EUR;2563,86;;Sonstiges;;LU96ZZZ;4J32224
+Kontokorrent-/Girokonto;DE45;GENOD;Volksbank eG;01.03.2023;01.03.2023;Klaus;DE07266500010000025874;NOLA;Dauerauftragsbelast;Miete Parkplatz;-25,00;EUR;2538,86;;Sonstiges;;;415sedf
